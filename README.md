@@ -5,7 +5,7 @@
 * [Jimeng Long](https://github.com/Jimeng-Long) 
 
 ## Project Summary
-Virtual Flashcards is an innovative, interactive learning chatbot designed to aid students in their studies through a question-and-answer format. Utilizing OpenAI APIs, this chatbot not only presents educational content but also provides immediate feedback, enhancing the learning experience. It serves as a dynamic tool for students seeking an engaging and responsive way to reinforce their knowledge.
+Virtual Flashcards is an innovative, interactive learning chatbot designed to aid students in their studies through a question-and-answer format. Utilizing OpenAI APIs(GPT-3.5), this chatbot not only presents educational content but also provides immediate feedback, enhancing the learning experience. It serves as a dynamic tool for students seeking an engaging and responsive way to reinforce their knowledge.
 
 ## Prequisite Libraries
 Package                       Version
